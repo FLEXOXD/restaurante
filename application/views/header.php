@@ -16,7 +16,7 @@
   </head>
   <body>
     <div class="text-center">
-      <img src="<?php echo base_url(); ?>/assets/images/logo.png" alt="Logo" height="100px">
+      <img src="<?php echo base_url(); ?>/assets/images/abuela.png" alt="Logo" height="100px">
     </div>
     <nav class="navbar navbar-inverse" role="navigation">
     <div class="container-fluid">

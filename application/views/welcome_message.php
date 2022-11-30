@@ -15,15 +15,15 @@
   <!-- Wrapper for slides -->
   <div class="carousel-inner">
     <div class="item active">
-      <img src="<?php echo base_url();?>/assets/images/1.PNG" alt="">
+      <img src="<?php echo base_url();?>/assets/images/local.png" height="250px" width="1500px">
     </div>
 
     <div class="item">
-      <img src="<?php echo base_url();?>/assets/images/2.PNG" alt="">
+      <img src="<?php echo base_url();?>/assets/images/local1.jpg" height="250px" width="1500px">
     </div>
 
     <div class="item">
-      <img src="<?php echo base_url();?>/assets/images/3.PNG" alt="">
+      <img src="<?php echo base_url();?>/assets/images/logo2.jpg" height="250px" width="1500px">
     </div>
   </div>
 
