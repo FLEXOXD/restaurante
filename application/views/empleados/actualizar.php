@@ -60,7 +60,7 @@
                 <label for="">CORREO:</label>
               </div>
             <div class="col-md-7">
-                <input type="date" name="correo_emp" value="<?php echo $empleadoEditar->correo_emp; ?>" class="form-control" placeholder="Seleccione el correo" required>
+                <input type="text" name="correo_emp" value="<?php echo $empleadoEditar->correo_emp; ?>" class="form-control" placeholder="Seleccione el correo" required>
               </div>
             </div>
             <br>
