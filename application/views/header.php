@@ -94,7 +94,7 @@
           <div class="form-group">
             <input type="text" class="form-control" placeholder="Ingrese su búsqueda">
           </div>
-          <button type="submit" class="btn btn-default">BÚSQUEDA</button>
+          <button type="submit" class="btn btn-default">BUSCAR</button>
         </form>
 
       </div><!-- /.navbar-collapse -->
