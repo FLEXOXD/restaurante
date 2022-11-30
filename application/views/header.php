@@ -29,7 +29,7 @@
           <span class="icon-bar"></span>
           <span class="icon-bar"></span>
         </button>
-        
+
         <a class="navbar-brand" href="<?php echo site_url(); ?>">Principal</a>
       </div>
       <!-- Collect the nav links, forms, and other content for toggling -->
@@ -92,9 +92,9 @@
         </ul>
         <form class="navbar-form navbar-left" role="search">
           <div class="form-group">
-            <input type="text" class="form-control" placeholder="Search">
+            <input type="text" class="form-control" placeholder="Ingrese su búsqueda">
           </div>
-          <button type="submit" class="btn btn-default">Submit</button>
+          <button type="submit" class="btn btn-default">BÚSQUEDA</button>
         </form>
 
       </div><!-- /.navbar-collapse -->
